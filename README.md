@@ -22,7 +22,7 @@ Removing outliers
 Drawing Data Summary
 After downloading the dataset, use Excel or Google Sheets to answer the below questions:
 
-Hiring: Process of intaking of people into an organization for different kinds of positions.
+Hiring: Process of intaking of people into an organization for different kinds of positions.<br>
 Your task: How many males and females are Hired ?
 Average Salary: Adding all the salaries for a select group of employees and then dividing the sum by the number of employees in the group.
 Your task: What is the average salary offered in this company ?
